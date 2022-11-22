@@ -7,4 +7,4 @@ Current notebooks:
 - economic_releases_calendar.ipynb : Pull CME economic release calendar contents 
 
 Next:
-- Scrape FedWatch, Event Analyzer, other QuikStrike tools 
+- Scrape FedWatch, Event Analyzer, other QuikStrike tools (see https://www.cmegroup.com/tools-information/quikstrike/economic-event-analyzer.html)
